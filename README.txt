@@ -1,0 +1,1 @@
+Ini adalah repositori untuk materi pemrograman deklaratif C++
